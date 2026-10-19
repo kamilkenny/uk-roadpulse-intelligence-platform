@@ -10,3 +10,4 @@ data/processed/
 *.db
 *.sqlite
 *.sqlite3
+storage_test.txt
